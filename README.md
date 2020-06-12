@@ -3,4 +3,4 @@
 
 ## Video
 
-<img src="Resources/Screen-Recording-2020-03-04-at-3.gif" width="20%" /> 
+<img src="Screen Recording 2020-06-13 at 01.22.53.gif" width="20%" /> 
